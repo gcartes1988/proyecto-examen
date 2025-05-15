@@ -48,7 +48,7 @@ npm start
 El archivo APK firmado se encuentra en la raíz como `app-release-signed.apk`. Puede ser instalado en cualquier dispositivo Android.
 
 ## 🌐 Versión Web
-Aplicación desplegada en Netlify: [https://proyecto-examen.netlify.app](https://proyecto-examen.netlify.app) *(reemplazar por el real)*
+Aplicación desplegada en Netlify: [https://proyecto-examen-react.netlify.app/]
 
 ## 🧪 Capturas
 - Registro y login exitoso ✔️
@@ -70,7 +70,7 @@ proyecto-examen/
 │   ├── firebaseConfig.js
 │   └── App.js
 ├── build/  # Generado para producción
-├── cordova/ (no incluido en entrega)
+├── cordova/ 
 └── app-release-signed.apk
 ```
 
